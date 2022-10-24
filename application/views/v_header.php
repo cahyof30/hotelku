@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <title>Hotelku</title>
-    <link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/css/stylebuku.css">
+    <link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/css/style.css">
 </head>
 
 <body>
