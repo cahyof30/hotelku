@@ -65,7 +65,14 @@ nav ul li a{
         border-radius: 5px;
         padding:10px 20px;
         text-decoration:none;
+}
 
+.kembali {
+    background:black;
+        color:white;
+        border-radius: 5px;
+        padding:10px 20px;
+        text-decoration:none;
 }
 
 .clear{

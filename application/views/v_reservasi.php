@@ -6,6 +6,7 @@
 
 <body>
     <center>
+        <br>
         <table>
             <tr>
                 <th colspan="3">Tampil Data Mata Kuliah </th>
@@ -47,11 +48,14 @@
                 <th>Lama Inap</th>
                 <th>:</th>
                 <td> <?= $lama; ?> </td>
+                <br>
             </tr>
+            <br>
             <tr>
-                <td colspan="3" align="center"> <a href="<?= base_url('index.php/reservasi'); ?>">Kembali</a> </td>
+                <td colspan="3" align="center"><br> <br><a class="kembali" href="<?= base_url('index.php/reservasi'); ?>">Kembali</a> <br></td>
             </tr>
         </table>
+        <br><br>
     </center>
 </body>
 
